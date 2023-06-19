@@ -1,0 +1,113 @@
+
+#maindiv{
+    height:700px;
+    width:1520px;
+    background-color: black;
+    }
+#headerdiv,#footer{ 
+    height: 100px;
+    width: 1520px;
+    background-color: black;
+    color: aliceblue;
+}
+#menuDiv{
+    height: 50px;
+    width: 1520px;
+    background-color: yellow;
+}
+#midDiv{
+    height: 450px;
+    width: 1520px;
+    background-color: #0b5345;
+}
+#leftDiv,#rightDiv{
+    height: 450px;
+    width: 500px;
+    background-color: goldenrod;
+    float: left;
+}
+#centerDiv{
+    height: 450px;
+    width: 510px;
+    background-color: gold;
+    float: left;
+}
+#comname{
+    color: linen;
+    margin-left: 1000px;
+    padding-top: 30px;
+    font-size: 40px;
+}
+#logo{
+    height: 90px;
+    width: 170px;
+    float: left;
+    margin-left: 80px;
+    padding-top: 10px;
+}
+#menuitem{
+    float: left;
+    width: 250px;
+    font-size: 30px;
+    margin-left: 50px;
+    padding-top: 5px;
+}
+#dv1{
+    height: 250px;
+    width: 250px;
+    background-color: black;
+    border-style: solid;
+    margin-left: 125px;
+    margin-top: 100px;
+}
+#menuitem a{
+    text-decoration: none;
+    color: darkorange;
+}
+#menuitem a:hover{
+    color: tomato;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 30px;
+}
+#footers{
+    color: linen;
+    margin-left: 10px;
+    padding-top: 1px;
+}
+#Midup{
+    height: 225px;
+    width: 1520px;
+    background-color: aqua;
+    
+}
+#Midimg{
+    height: 225px;
+    width: 506px;
+    float: left;
+}
+#Middown{
+    height: 225px;
+    width: 1520px;
+    background-color: blanchedalmond;
+}
+#MidTwo{
+    height: 450px;
+    width: 750px;
+    background-color: brown;
+    float: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+#Half2{
+    height: 450px;
+    width: 760px;
+    background-color: bisque;
+    float: left;
+}
+#Half1{
+    padding-top: 70px;
+    font-size: 20px;
+}
+#cont{
+    margin-top: 290px;
+}
